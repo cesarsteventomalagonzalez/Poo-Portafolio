@@ -1,0 +1,15 @@
+.container {
+    padding: 10px;
+    max-width: 980px;
+    margin: auto;
+    background-color: #44c9eb;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--theme-color);
+    color: var(--text-color);
+}

@@ -1,0 +1,26 @@
+.contacto {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.contacto1 {
+    padding: 50px;
+}
+
+.contacto1 {
+    background-color: #8EEBEE;
+    ;
+    border-radius: 15px;
+
+}
+
+.contacto1 .btn {
+    width: 100%;
+}
+
+.titulocontacto {
+    margin-left: 10%;
+    font-size: 55px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

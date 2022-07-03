@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 13%;
+}
+
+.card-title{
+    font-size: 54px;
+    font-weight: bold;
+    margin: 0;
+    margin-top:14%;
+    color:#8EEBEE ;
+    font-family: "Noto Sans", sans-serif;
+    margin-left: 14%;
+    text-align: left;
+}
+.card-text{
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 1.5;
+    max-width: 450px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+
+.imgper{
+    margin-top: 15%;
+    width: 360px;
+    margin-left: 1%;
+}
+
+.btn{
+    background-color:#8EEBEE ;
+    color: white;
+    border: none;
+    font-size: 26px;
+    padding: 0.5em 1em;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-right: 35%;
+  
+
+}
+.perfil {
+    text-align: center;
+}
